@@ -1,6 +1,7 @@
 package main
 
-// тестируем workflow
+// тестируем с tags
+// testing ...
 
 import (
 	"database/sql"
