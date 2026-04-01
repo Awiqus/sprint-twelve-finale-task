@@ -1,6 +1,6 @@
 package main
 
-// тестируем
+// тестируем с tags
 
 import (
 	"database/sql"
