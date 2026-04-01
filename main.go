@@ -1,6 +1,6 @@
 package main
 
-// тестируем workflow
+// тестируем
 
 import (
 	"database/sql"
